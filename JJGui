@@ -90,7 +90,7 @@ version.BackgroundTransparency = 1.000
 version.Position = UDim2.new(0.784627557, 0, 0.21965313, 0)
 version.Size = UDim2.new(0, 115, 0, 23)
 version.Font = Enum.Font.SourceSans
-version.Text = "V.0.0.0 Pre-Alpha"
+version.Text = "V.0.0.1 Pre-Alpha"
 version.TextColor3 = Color3.fromRGB(0, 0, 0)
 version.TextSize = 14.000
 
