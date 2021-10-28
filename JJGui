@@ -157,7 +157,7 @@ mm2_script.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 mm2_script.Position = UDim2.new(0.513589501, 0, 0.398843944, 0)
 mm2_script.Size = UDim2.new(0, 200, 0, 50)
 mm2_script.Font = Enum.Font.SourceSans
-mm2_script.Text = "MM2 Script"
+mm2_script.Text = "MM2 Script (kinda outdated)"
 mm2_script.TextColor3 = Color3.fromRGB(0, 0, 0)
 mm2_script.TextSize = 14.000
 mm2_script.MouseButton1Down:connect(function()
